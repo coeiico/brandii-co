@@ -14,4 +14,4 @@ I enjoy competitive programming; developing libraries, plugins, and developer to
 ‎
 
 ‎
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandii-co&hide_border=true&count_private=true&title_color=E95678&icon_color=B877DB&hide_title=true" alt="Stats" width="300" align="left" style="margin-left: -30px; margin-top: -15px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandii-co&hide_border=true&layout=compact&count_private=true&title_color=E95678&icon_color=B877DB&hide_title=true" alt="Stats" width="320" align="left">
