@@ -2,8 +2,6 @@
 
 I am an undergraduate student currently studying applied mathematics and computer science.
 
-I enjoy competitive programming; developing libraries, plugins, and developer tools.
-
 #### Languages
 
 <!---<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" />--> <img align="left" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" /> <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <!---<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" />--> <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" />
