@@ -4,4 +4,10 @@ I am an undergraduate student currently studying applied mathematics and compute
 
 #### Languages
 
-<!---<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" />--> <img align="left" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" /> <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <!---<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" />--> <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" />
+<img align="left" width="26px" src="https://github.com/brandii-co/brandii-co/blob/main/res/assets/cpp.svg" /> 
+<img align="left" width="26px" src="https://github.com/brandii-co/brandii-co/blob/main/res/assets/java.svg" /> 
+<img align="left" width="26px" src="https://github.com/brandii-co/brandii-co/blob/main/res/assets/python.svg" /> 
+<img align="left" width="26px" src="https://github.com/brandii-co/brandii-co/blob/main/res/assets/bash.svg" /> 
+<img align="left" width="26px" src="https://github.com/brandii-co/brandii-co/blob/main/res/assets/lua.svg" /> 
+<img align="left" width="26px" src="https://github.com/brandii-co/brandii-co/blob/main/res/assets/wolfram-language.svg" /> 
+<img align="left" width="26px" src="https://github.com/brandii-co/brandii-co/blob/main/res/assets/javascript.svg" />
