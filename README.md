@@ -1,4 +1,4 @@
-### brandii-co <img src="https://github-readme-stats.vercel.app/api?username=brandii-co&show_icons=true&hide_border=true&count_private=true&title_color=E95678&icon_color=B877DB&custom_title=Github Stats" alt="Stats" width="440" align="right">
+### brandii-co <img src="https://github-readme-stats.vercel.app/api?username=brandii-co&show_icons=true&hide_border=true&count_private=true&title_color=E95678&icon_color=B877DB" alt="Stats" width="440" align="right">
 
 I am an undergraduate student currently studying applied mathematics and computer science.
 
